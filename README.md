@@ -1,12 +1,18 @@
+<div align="center">
+
 # Youming Hu
 
-Computer vision · Motion analysis · Applied research
+### Computer vision · Motion analysis · Applied research
 
 I build computer-vision systems that turn ordinary video into useful movement insights.
 
 [**View the polished version →**](https://youminghu0930.github.io/)
 
 [Public projects on GitHub →](https://github.com/youminghu0930-public)
+
+</div>
+
+---
 
 ## About me
 
