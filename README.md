@@ -6,6 +6,8 @@ I build computer-vision systems that turn ordinary video into useful movement in
 
 [**View the polished version →**](https://youminghu0930.github.io/)
 
+[Public projects on GitHub →](https://github.com/youminghu0930-public)
+
 ## About me
 
 I’m Youming. My work connects computer vision, geometry, and movement analysis. I’m interested in making complex motion easier to reconstruct, inspect, and understand.
